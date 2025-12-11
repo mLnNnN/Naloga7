@@ -10,7 +10,7 @@ V datoteki so opisani testni scenariji za 3 izmed glavnih funkcionalnosti platfo
 ## 1. Testni scenarij: Uporabniška prijava in registracija
 
 ### Funkcionalnost:
-Uporabniška prijava in registracija (prijava z e-pošto)
+ prijava in registracija (prijava z e-pošto)
 
 ### Koraki izvedbe:
 1. Uporabnik odpre stran za prijavo (/login).
