@@ -5,3 +5,4 @@
 ## Spremembe osebe B
 - Dodana datoteka index.html
 - Dodana datoteka kontakt.html
+-a
